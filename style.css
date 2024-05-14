@@ -404,7 +404,7 @@ footer .cols .contact-section form button i{
     }
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 480px) {
 
     .navbar {
         justify-content: center;
@@ -433,7 +433,7 @@ footer .cols .contact-section form button i{
     }
 
     .main p.subtitle{
-        font-size: 12px;
+        font-size: 10px;
     }
 
     .main img{
@@ -449,6 +449,7 @@ footer .cols .contact-section form button i{
 
     .skills .right{
         gap: 20px;
+        margin-top: 20px;
     }
 
 
